@@ -1,0 +1,8 @@
+{
+  "name": "Remix 舊換新回收即時報價平台",
+  "description": "直營門市舊機回收價格比較與即時試算系統，支援區域網路指定路徑 Excel 報價檔案即時同步讀取與前線快速估價。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
